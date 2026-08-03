@@ -1,5 +1,5 @@
 const CONFIG = {
-  API_URL: 'https://server-production-036d.up.railway.app/api',
+  API_URL: 'https://server-production-f5ce.up.railway.app/api',
 };
 
 let TOKEN = localStorage.getItem('monastery_bm_token') || null;
